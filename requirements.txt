@@ -1,3 +1,6 @@
 kokoro
-flask
+fastapi
+pydantic
+uvicorn
 soundfile
+simpleaudio
